@@ -9,8 +9,8 @@ I am a data enthusiast who has been trying to make hand dirty with data and data
 
 Key skills in data science domain: SQL, Numpy, Pandas, EDA, Feature engineering, Seaborn, Matplotlib.
 
-- 🔭 I’m currently working on my Master thesis in NLP(Coherence based Text quality)
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working on my Master thesis in NLP(Coherence based Text quality).
+- :bulb: I’m currently learning 
       -TensorFlow Developer Certificate in 2022: Zero to Mastery,Udemy.
       
 
