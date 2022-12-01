@@ -9,14 +9,14 @@ I am a data enthusiast who has been trying to make hands dirty in the data and d
 
 Key skills in data science domain: SQL, Numpy, Pandas, EDA, Feature engineering, Seaborn, Matplotlib.
 
-Key skills in web development: React, NodeJs, Angular, TensorFlow.js, Rest API, HTML, CSS, Bootstrap, Angular Material UI, React UI.
+Key skills in web development: React, NodeJs, TensorFlow.js, Rest API, HTML, CSS, Bootstrap, Material UI, React UI.
 
 - 🔭 Recently completed my Master thesis in NLP(Coherence based Text quality).
 - :bulb: I’m currently learning
      - TensorFlow Developer Certificate in 2022: Zero to Mastery,Udemy.      
      - Learning different  ML-model deployment.      
      - Learning different Web Framework
-     - GraphQL
+
       
 
 
